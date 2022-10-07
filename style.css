@@ -6,11 +6,10 @@ th, td {
 padding: 15px;
 text-align: left:
 }
-tr:hover (background-color: coral:}
-th, td f
-15
-26
-17
+tr:hover(background-color: coral:}
+th, td {
 border-bottom: 2px solid #ddd:
-table, th, td
+table, th, td {
+ border; 2px ;
+ }
 
