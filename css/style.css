@@ -8,8 +8,8 @@
 h1
 {
     text-align: center;
-    color: rgb(255, 255, 255);
-    background-color: rgb(27, 238, 27);
+    color: blue(255, 255, 255);
+    background-color: blue(27, 238, 27);
     font-size: 50pt;
 }
 
