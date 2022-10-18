@@ -12,9 +12,9 @@ h1
 }
 p
 {
-    text-align: right;
+    text-align: cemter;
     font-size: 14pt;
-    color: rbg(139,0,0)
+    color: rgb(139,0,0)
 }
 section.inspire
 { 
