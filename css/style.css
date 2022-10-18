@@ -7,9 +7,9 @@
 
 h1
 {
-    text-align: center;
-    color: rbg(255,0,0)
-    background-color: rgb(255,255,255)
+    text-align: left;
+    color: rbg(139,0,139)
+    background-color: rgb(245,245,220)
     font-size: 50pt;
 }
 
