@@ -15,11 +15,11 @@ h1
 
 p
 {
-    text-align: center;
+    text-align: left;
     font-size: 14pt;
 }
 section
 {
-    color: var(green)
+    color: rgb (255,255,255)
     float: right;
 }
