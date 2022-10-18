@@ -12,18 +12,18 @@ h1
 }
 p
 {
-    text-align: cemter;
+    text-align: center;
     font-size: 14pt;
     color: rgb(139,0,0);
 }
 section.inspire
 { 
-    text-align: right;
+    text-align: center;
     color: rgb(139,0,0);
     font-size: 15px; 
 }
 ul
 { 
     Font-size: 15px;
-  text-align: right;
+  text-align: center;
  }
