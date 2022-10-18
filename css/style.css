@@ -20,11 +20,12 @@ section.inspire
 { 
     text-align: center;
     color: rgb(139,0,0);
+    background-color: rgb(211,211,211);
     font-size: 15px; 
 }
 ul
 { 
     Font-size: 15px;
   text-align: center;
-    color: rgb(139,0,139)
+    color: rgb(139,0,139);
  }
