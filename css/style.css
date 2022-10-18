@@ -4,15 +4,13 @@
 
 #profilepic { border-radius: 8px;
 }
-
 h1
 {
     text-align: left;
-    color: rbg(139,0,139)
-    background-color: rgb(245,245,220)
+    color: rbg (139,0,139)
+    background-color: rgb (245,245,220)
     font-size: 50pt;
 }
-
 p
 {
     text-align: center;
