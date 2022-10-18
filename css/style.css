@@ -12,12 +12,12 @@ h1
 }
 p
 {
-    text-align: center;
+    text-align: right;
     font-size: 14pt;
 }
 section.inspire
 { text-align: center;
-    color: black;
+    color: red;
     font-size: 20px; 
 }
 ul
