@@ -1,13 +1,13 @@
 th {
   background-color: #04AA6D;
-  color: black;
+  color: red;
 }
 
 th, td {
   padding: 15px;
   text-align: left;
 }
-tr:hover {background-color: rgb(139,0,0);}
+tr:hover {background-color: red;}
 th, td {
   border-bottom: 2px solid #ddd;
 }
