@@ -18,12 +18,12 @@ p
 }
 section.inspire
 { 
-    text-align: center;
-    color: red;
+    text-align: right;
+    color: rgb(139,0,0)
     font-size: 20px; 
 }
 ul
 { 
     Font-size: 25px;
-  text-align: center;
+  text-align: right;
  }
