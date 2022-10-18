@@ -3,6 +3,12 @@
 
 #profilepic { border-radius: 15px;
 }
+p
+{
+    text-align: center;
+    font-size: 14pt;
+    color: rgb(139,0,0);
+}
 h1
 {
     text-align: center;
