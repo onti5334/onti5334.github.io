@@ -2,7 +2,6 @@ body {
   background-color: lightyellow
 }
 p.amuse { text-align: left;
-  color: darkred
-  background-color: Black;
-  font-size: 50px;
+  color: rgb(235,64,52)
+  font-size: 75px;
 }
