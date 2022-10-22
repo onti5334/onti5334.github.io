@@ -3,17 +3,14 @@ body {
 }
 {
 p.index { text-align: left;
-  color: rgb(255, 255, 255);
-  background-color: darkred;
+  color: darkred
   font-size: 50px;
 }
 p.amuse { text-align: left;
-  color: rgb(255, 255, 255);
-  background-color: darkred;
+  color: darkred
   font-size: 50px;
 }
 p.educate { text-align: left;
-  color: rgb(255, 255, 255);
-  background-color: darkred;
+  color: darkred
   font-size: 50px;
 }
