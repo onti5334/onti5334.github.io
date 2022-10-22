@@ -2,17 +2,17 @@ body {
   background-color: lightyellow
 }
 {
-h1.index { text-align: left;
+p.index { text-align: left;
   color: rgb(255, 255, 255);
   background-color: darkred;
   font-size: 50px;
 }
-h1.amuse { text-align: left;
+p.amuse { text-align: left;
   color: rgb(255, 255, 255);
   background-color: darkred;
   font-size: 50px;
 }
-h1.educate { text-align: left;
+p.educate { text-align: left;
   color: rgb(255, 255, 255);
   background-color: darkred;
   font-size: 50px;
