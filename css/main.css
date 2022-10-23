@@ -11,7 +11,7 @@ p {
          text-indent: 3em
         border-style: solid;
           border-color: darkred;
-   text-decoration-line: overline;
+   text-decoration-line: underline;
   text-decoration-color: red;
 }
 h1 {
@@ -20,6 +20,8 @@ h1 {
   font-style: oblique;
    font-family: serif; 
    text-align: center;
+  text-decoration-line: underline;
+  text-decoration-color: red;
 }
 h2 {
   color: darkgreen;
@@ -27,6 +29,8 @@ h2 {
   font-style: oblique;
    font-family: serif;
    text-align: center;
+  text-decoration-line: underline;
+  text-decoration-color: red;
 }
 h3 {
   color: rgb(206,66,245);
@@ -34,6 +38,8 @@ h3 {
      font-style: oblique;
    font-family: serif;
   text-align: center;
+  text-decoration-line: underline;
+  text-decoration-color: red;
 }
 a {
   text-align: center;
