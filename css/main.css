@@ -1,9 +1,18 @@
 body {
   background-color: lightyellow
 }
-p.amuse
-{
-    text-align: left;
-    font-size: 14pt;
-    color: #aa3004;
+h1.index { text-align: left;
+  color: rgb(255, 255, 255);
+  background-color: Black;
+  font-size: 50px;
+}
+h1.amuse { text-align: left;
+  color: rgb(255, 255, 255);
+  background-color: Black;
+  font-size: 50px;
+}
+h1.educate { text-align: left;
+  color: rgb(255, 255, 255);
+  background-color: Black;
+  font-size: 50px;
 }
