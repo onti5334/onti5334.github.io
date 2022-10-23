@@ -13,6 +13,10 @@ p {
           border-color: darkred;
    text-decoration-line: underline;
   text-decoration-color: black;
+   margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
 h1 {
   color: orange;
