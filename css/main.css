@@ -5,24 +5,30 @@ p {
   color: rgb(3,11,252)
     background-color: Black;
      font-weight: 200;
+      font-size: 50px; 
+       font-style: oblique;
 }
 h1 {
   color: orange
     background-color: Black;
    font-weight: 200;
   font-size: 100px;
+  font-style: oblique;
 }
 h2 {
   color: darkgreen
     background-color: Black;
    font-weight: 200;
   font-size: 150px;
+  font-style: oblique;
 }
 h3 {
   color: rgb(206,66,245)
     background-color: Black;
    font-weight: 200
-     font-size: 150px; 
+     font-size: 150px;
+     font-style: oblique;
+  
 }
 
 
