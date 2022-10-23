@@ -2,22 +2,22 @@ body {
   background-color: lightgreen
 }
 p {
-  color: rgb(3,11,252)
+  color: rgb(3,11,252);
       font-size: 25px; 
        font-style: oblique;
 }
 h1 {
-  color: orange
+  color: orange;
   font-size: 25px;
   font-style: oblique;
 }
 h2 {
-  color: darkgreen
+  color: darkgreen;
   font-size: 25px;
   font-style: oblique;
 }
 h3 {
-  color: rgb(206,66,245)
+  color: rgb(206,66,245);
      font-size: 25px;
      font-style: oblique;
 }
