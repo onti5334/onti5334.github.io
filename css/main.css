@@ -1,10 +1,13 @@
 body {
-  background-color: darkblue
+  background-color: lightyellow
 }
-body {
-  border: 3pt black
-}
+
 p {
   color: darkred
+  background-color: Black;
+  font-size: 50px;
+}
+h1 {
+  color: orange
 }
     
