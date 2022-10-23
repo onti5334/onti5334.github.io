@@ -4,19 +4,24 @@ body {
 p {
   color: rgb(3,11,252)
     background-color: Black;
+     font-weight: 600;
 }
 h1 {
   color: orange
     background-color: Black;
+   font-weight: 600;
 }
 h2 {
   color: darkgreen
     background-color: Black;
+   font-weight: 600;
 }
 h3 {
   color: rgb(206,66,245)
     background-color: Black;
+   font-weight: 600
 }
+
 
 
 
