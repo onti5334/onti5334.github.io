@@ -3,18 +3,19 @@ body {
 }
 p {
   color: rgb(3,11,252)
+    background-color: Black;
 }
 h1 {
   color: orange
+    background-color: Black;
 }
 h2 {
   color: darkgreen
+    background-color: Black;
 }
 h3 {
   color: rgb(206,66,245)
-}
-body {
-  border: 5pt black 
+    background-color: Black;
 }
 
 
