@@ -26,6 +26,10 @@ h1 {
    text-align: center;
   text-decoration-line: underline;
   text-decoration-color: black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
 h2 {
   color: darkgreen;
@@ -35,6 +39,10 @@ h2 {
    text-align: center;
   text-decoration-line: underline;
   text-decoration-color: black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
 h3 {
   color: rgb(206,66,245);
@@ -44,6 +52,10 @@ h3 {
   text-align: center;
   text-decoration-line: underline;
   text-decoration-color: black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
 a {
   text-align: center;
