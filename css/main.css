@@ -1,7 +1,10 @@
 body {
   background-color: lightyellow
 }
-p.amuse { text-align: left;
-  color: rgb(235,64,52)
-  font-size: 75px;
+p.amuse
+{
+    text-align: center;
+    color: rgb(139,0,0);
+    background-color: rgb(211,211,211);
+    font-size: 75pt;
 }
