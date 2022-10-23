@@ -3,23 +3,27 @@ body {
 }
 p {
   color: rgb(3,11,252);
-      font-size: 25px; 
+      font-size: 15px; 
        font-style: oblique;
+       font-family: serif;
 }
 h1 {
   color: orange;
   font-size: 25px;
   font-style: oblique;
+   font-family: serif; 
 }
 h2 {
   color: darkgreen;
   font-size: 25px;
   font-style: oblique;
+   font-family: serif;
 }
 h3 {
   color: rgb(206,66,245);
      font-size: 25px;
      font-style: oblique;
+   font-family: serif;
 }
 
 
