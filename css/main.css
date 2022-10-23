@@ -1,8 +1,9 @@
 body {
   background-color: lightyellow
 }
-p {
+p.amuse
+{
     text-align: left;
-    color: rgb(176,4,6);
-    font-size: 75pt;
+    font-size: 14pt;
+    color: #aa3004;
 }
