@@ -10,16 +10,19 @@ h1 {
   color: orange
     background-color: Black;
    font-weight: 200;
+  font-size: 100px;
 }
 h2 {
   color: darkgreen
     background-color: Black;
    font-weight: 200;
+  font-size: 150px;
 }
 h3 {
   color: rgb(206,66,245)
     background-color: Black;
    font-weight: 200
+     font-size: 150px; 
 }
 
 
