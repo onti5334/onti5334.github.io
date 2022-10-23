@@ -2,7 +2,7 @@ body {
   background-color: lightyellow
 }
 p {
-  color: darkblue
+  color: rgb(245,111,66)
 }
 h1 {
   color: orange
@@ -13,7 +13,7 @@ h2 {
 h3 {
   color: rgb(206,66,245)
 }
-{
+body {
   border: 5pt black 
 }
 
