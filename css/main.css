@@ -9,7 +9,6 @@ p {
        font-family: serif;
         text-align: center
          text-indent: 3em
-          border: 5pt darkred
 }
 h1 {
   color: orange;
@@ -17,7 +16,6 @@ h1 {
   font-style: oblique;
    font-family: serif; 
    text-align: center
-     border: 5pt darkred
 }
 h2 {
   color: darkgreen;
@@ -25,7 +23,6 @@ h2 {
   font-style: oblique;
    font-family: serif;
    text-align: center
-     border: 5pt darkred
 }
 h3 {
   color: rgb(206,66,245);
@@ -33,11 +30,9 @@ h3 {
      font-style: oblique;
    font-family: italic;
   text-align: center
-    border: 5pt darkred
 }
 a {
   text-align: center
-    border: 5pt darkred
 }
 
 
