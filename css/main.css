@@ -9,7 +9,8 @@ p {
        font-family: serif;
         text-align: center;
          text-indent: 3em
-           border-style: groove;
+        border-style: solid;
+          border-color: darkred;
 }
 h1 {
   color: orange;
