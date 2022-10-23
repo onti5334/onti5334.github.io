@@ -1,18 +1,10 @@
 body {
-  background-color: lightyellow
+  background-color: darkblue
 }
-h1.index { text-align: left;
-  color: rgb(255, 255, 255);
-  background-color: Black;
-  font-size: 50px;
+body {
+  border: 3pt black
 }
-h1.amuse { text-align: left;
-  color: rgb(255, 255, 255);
-  background-color: Black;
-  font-size: 50px;
+p {
+  color: darkred
 }
-h1.educate { text-align: left;
-  color: rgb(255, 255, 255);
-  background-color: Black;
-  font-size: 50px;
-}
+    
