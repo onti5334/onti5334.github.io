@@ -19,6 +19,7 @@ p {
   margin-left: 80px;
    background-color: red;
         opacity: 0.3;
+   border: 1px solid black;
   
 }
 h1 {
