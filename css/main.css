@@ -6,6 +6,7 @@ p {
       font-size: 15px; 
        font-style: oblique;
        font-family: serif;
+        text-align: center
 }
 h1 {
   color: orange;
