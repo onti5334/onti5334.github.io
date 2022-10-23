@@ -17,6 +17,9 @@ p {
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
+   background-color: green;
+        opacity: 0.3;
+  
 }
 h1 {
   color: orange;
@@ -30,6 +33,8 @@ h1 {
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
+  background-color: green;
+        opacity: 0.3;
 }
 h2 {
   color: darkgreen;
@@ -43,6 +48,8 @@ h2 {
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
+  background-color: green;
+        opacity: 0.3;
 }
 h3 {
   color: rgb(206,66,245);
@@ -56,6 +63,8 @@ h3 {
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
+  background-color: green;
+        opacity: 0.3;
 }
 a {
   text-align: center;
