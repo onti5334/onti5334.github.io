@@ -12,7 +12,7 @@ p {
         border-style: solid;
           border-color: darkred;
    text-decoration-line: underline;
-  text-decoration-color: red;
+  text-decoration-color: black;
 }
 h1 {
   color: orange;
@@ -21,7 +21,7 @@ h1 {
    font-family: serif; 
    text-align: center;
   text-decoration-line: underline;
-  text-decoration-color: red;
+  text-decoration-color: black;
 }
 h2 {
   color: darkgreen;
@@ -30,7 +30,7 @@ h2 {
    font-family: serif;
    text-align: center;
   text-decoration-line: underline;
-  text-decoration-color: red;
+  text-decoration-color: black;
 }
 h3 {
   color: rgb(206,66,245);
@@ -39,7 +39,7 @@ h3 {
    font-family: serif;
   text-align: center;
   text-decoration-line: underline;
-  text-decoration-color: red;
+  text-decoration-color: black;
 }
 a {
   text-align: center;
