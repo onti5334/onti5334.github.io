@@ -7,7 +7,7 @@ p {
       font-size: 15px; 
        font-style: oblique;
        font-family: serif;
-        text-align: center
+        text-align: center;
          text-indent: 3em
 }
 h1 {
@@ -15,24 +15,24 @@ h1 {
   font-size: 25px;
   font-style: oblique;
    font-family: serif; 
-   text-align: center
+   text-align: center;
 }
 h2 {
   color: darkgreen;
   font-size: 25px;
   font-style: oblique;
    font-family: serif;
-   text-align: center
+   text-align: center;
 }
 h3 {
   color: rgb(206,66,245);
      font-size: 25px;
      font-style: oblique;
    font-family: italic;
-  text-align: center
+  text-align: center;
 }
 a {
-  text-align: center
+  text-align: center;
 }
 
 
