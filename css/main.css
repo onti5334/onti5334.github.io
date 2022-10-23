@@ -9,6 +9,7 @@ p {
        font-family: serif;
         text-align: center;
          text-indent: 3em
+           border-style: groove;
 }
 h1 {
   color: orange;
@@ -28,7 +29,7 @@ h3 {
   color: rgb(206,66,245);
      font-size: 25px;
      font-style: oblique;
-   font-family: italic;
+   font-family: serif;
   text-align: center;
 }
 a {
