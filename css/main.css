@@ -17,8 +17,8 @@ p {
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
-   background-color: lightblue;
-        opacity: 0.5;
+   background-color: red;
+        opacity: 0.3;
   
 }
 h1 {
@@ -33,8 +33,8 @@ h1 {
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
-  background-color: lightblue;
-         opacity: 0.5;
+   background-color: red;
+        opacity: 0.3;
 }
 h2 {
   color: darkgreen;
@@ -48,8 +48,8 @@ h2 {
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
-  background-color: lightblue;
-     opacity: 0.5;
+  background-color: red;
+        opacity: 0.3;
 }
 h3 {
   color: rgb(206,66,245);
@@ -63,8 +63,8 @@ h3 {
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
-  background-color: lightblue;
-       opacity: 0.5;
+   background-color: red;
+        opacity: 0.3;
 }
 a {
   text-align: center;
