@@ -18,7 +18,6 @@ p {
   margin-right: 150px;
   margin-left: 80px;
    background-color: red;
-        opacity: 0.3;
    border: 1px solid black;
   
 }
@@ -35,7 +34,7 @@ h1 {
   margin-right: 150px;
   margin-left: 80px;
    background-color: red;
-        opacity: 0.3;
+           border: 1px solid black;
 }
 h2 {
   color: darkgreen;
@@ -50,7 +49,7 @@ h2 {
   margin-right: 150px;
   margin-left: 80px;
   background-color: red;
-        opacity: 0.3;
+           border: 1px solid black;
 }
 h3 {
   color: rgb(206,66,245);
@@ -65,7 +64,7 @@ h3 {
   margin-right: 150px;
   margin-left: 80px;
    background-color: red;
-        opacity: 0.3;
+           border: 1px solid black;
 }
 a {
   text-align: center;
