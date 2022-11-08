@@ -3,7 +3,7 @@ body
     background-color: rgb(235, 204, 52);
 }
 <li> {
-    color: darkred 
+    color: white
 }
 h1
 {
@@ -44,6 +44,10 @@ nav a
     border-bottom: 4px solid darkblue
 }
 #education h3
+{
+    border-bottom: 4px solid darkblue
+}
+#skills li
 {
     border-bottom: 4px solid darkblue
 }
