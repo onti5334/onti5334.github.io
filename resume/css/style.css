@@ -59,10 +59,7 @@ nav a
 {
     border-bottom: 4px solid darkblue 
 }
-img
-{
-    border-radius: 75%
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+img {
+  border-radius: 50%;
+  grayscale {filter: grayscale(100%);}
 }
