@@ -1,6 +1,6 @@
 body
 {
-    background-color: rgb(47, 60, 71);
+    background-color: rgb(235, 204, 52);
 }
 h1
 {
@@ -15,7 +15,7 @@ section h2
 }
 section
 {
-    border: 3px solid black;
+    border: 3px solid white;
     margin-top: 40px;
     margin-bottom: 40px;
     padding: 10px;
@@ -27,14 +27,14 @@ ul
 }
 .date
 {
-    color: goldenrod;
+    color: darkblue;
     float: right;
 }
 nav a
 {   
     font-size: 20pt;
     font-weight: bold;
-    color:rgb(51, 173, 173)
+    color:rgb(235, 204, 52)
 }
 #experience li
 {
