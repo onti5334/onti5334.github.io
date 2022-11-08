@@ -13,10 +13,15 @@ h1
     color: darkgreen;
     font-size: 48pt;
 }
+h2
+{
+    color: darkgreen
+}
 section h2
 {
     margin: 5px;
     font-size: 28pt;
+    color: darkgreen
 }
 section
 {
