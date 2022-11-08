@@ -6,22 +6,31 @@ body
 {
     color: darkred
     text-align: left
+        font-family: verdana;
 }
 h1
 {
     text-align: left;
     color: darkgreen;
     font-size: 48pt;
+    font-family: verdana;
 }
 h2
 {
     color: darkgreen
+        font-family: verdana;
+}
+h3
+{
+    color: darkblue 
+        font-family: verdana;
 }
 section h2
 {
     margin: 5px;
     font-size: 28pt;
     color: darkgreen
+        font-family: verdana;
 }
 section
 {
@@ -30,10 +39,12 @@ section
     margin-bottom: 40px;
     padding: 10px;
     clear: green;
+    font-family: verdana;
 }
 ul
 {
     font-size: 18pt;
+    font-family: verdana;
 }
 .date
 {
@@ -45,6 +56,7 @@ nav a
     font-size: 20pt;
     font-weight: bold;
     color: darkred
+        font-family: verdana;
 }
 #experience li
 {
