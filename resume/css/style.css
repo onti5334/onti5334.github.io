@@ -2,8 +2,10 @@ body
 {
     background-color: rgb(235, 204, 52);
 }
-<li> {
+<li>
+{
     color: darkred
+    text-align: left
 }
 h1
 {
@@ -42,14 +44,17 @@ nav a
 #experience li
 {
     border-bottom: 4px solid darkblue
+         color: darkgreen
 }
 #education h3
 {
     border-bottom: 4px solid darkblue
+         color: darkgreen
 }
 #skills li
 {
     border-bottom: 4px solid darkblue
+        color: darkgreen
 }
 img
 {
