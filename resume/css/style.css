@@ -3,11 +3,11 @@ body
     background-color: rgb(235, 204, 52);
 }
 <li> {
-    color: white
+    color: darkred
 }
 h1
 {
-    text-align: center;
+    text-align: left;
     color: darkgreen;
     font-size: 48pt;
 }
