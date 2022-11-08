@@ -2,7 +2,7 @@ body
 {
     background-color: rgb(235, 204, 52);
 }
-li
+<li>
 {
     color: darkgreen; 
     text-align: left
@@ -17,7 +17,7 @@ h1
 }
 h2
 {
-    color: darkgreen
+    color: darkblue
         font-family: verdana;
 }
 h3
@@ -29,7 +29,7 @@ section h2
 {
     margin: 5px;
     font-size: 28pt;
-    color: darkgreen
+    color: darkblue 
         font-family: verdana;
 }
 section
