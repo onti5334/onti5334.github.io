@@ -17,4 +17,5 @@ table, th, td {
 img {
   border-radius: 8px;
   background-color: darkgreen
+      border: 3.5 solid black;
 }
