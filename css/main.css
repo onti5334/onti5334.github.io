@@ -81,7 +81,10 @@ h3 {
     background-color: lightgray;
    border: 2.5px solid black;
 }
-
+img {
+  border-radius: 8px;
+  background-color: darkgreen
+}
 
 
 
