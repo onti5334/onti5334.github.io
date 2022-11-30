@@ -31,3 +31,7 @@ ul
   text-align: right;
     color: rgb(139,0,139);
  }
+img {
+  border-radius: 8px;
+  background-color: darkgreen
+}
