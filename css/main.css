@@ -86,6 +86,10 @@ img {
   background-color: darkgreen;
   border: 3.5 solid black;
 }
+img
+{
+    width: 50vmax;
+}
 
 
 
