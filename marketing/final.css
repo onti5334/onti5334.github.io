@@ -19,8 +19,19 @@ h2
   text-decoration-line: underline;
   text-decoration-color: black;
 }
-p 
+h3 
 {
-  text-align: center
-    color: darkgray
+    color: purple
+       text-align: center;
+  text-decoration-line: underline;
+  text-decoration-color: black;
+  font-size: 25px;
+  font-style: oblique;
+}
+h1
+{
+  font-size: 25px;
+  font-style: oblique;
+    text-decoration-line: underline;
+  text-decoration-color: black;
 }
