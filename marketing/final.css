@@ -6,7 +6,10 @@ img
     width: 32vmax;
     border-radius: 10px;
     border: 3.5 solid black;
-     border-align: center
+         display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 h2 {
   color: red
