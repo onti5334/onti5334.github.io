@@ -15,5 +15,8 @@ h2 {
    text-align: center;
   text-decoration-line: underline;
   text-decoration-color: black;
-   border: 2.5px solid black;
+}
+p {
+  text-align: center
+    color: darkgray
 }
