@@ -6,6 +6,7 @@ img
     width: 20vmax;
     border-radius: 8px;
     border: 3.5 solid black;
+     text-align: center
 }
 h2 {
   color: red
