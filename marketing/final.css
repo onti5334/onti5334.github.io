@@ -43,3 +43,13 @@ iframe
   margin-right: auto;
    display: block;
 }
+p
+{
+    color: purple
+  font-size: 25px;
+  font-style: oblique;
+   font-family: serif;
+   text-align: center;
+  text-decoration-line: underline;
+  text-decoration-color: black;
+}
