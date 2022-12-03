@@ -8,18 +8,12 @@ img
     border: 3.5 solid black;
 }
 h2 {
-  color: green
-  color: darkgreen;
+  color: red
   font-size: 25px;
   font-style: oblique;
    font-family: serif;
    text-align: center;
   text-decoration-line: underline;
   text-decoration-color: black;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
-   background-color: lightgray;
    border: 2.5px solid black;
 }
