@@ -45,11 +45,10 @@ iframe
 }
 p
 {
-    color: purple
+    color: white
   font-size: 25px;
   font-style: oblique;
    font-family: serif;
    text-align: center;
-  text-decoration-line: underline;
-  text-decoration-color: black;
+ 
 }
