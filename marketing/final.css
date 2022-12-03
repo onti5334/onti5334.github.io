@@ -1,4 +1,12 @@
 body {
   background-color: rgb(232, 128, 255)
 }
-
+img
+{
+    width: 20vmax;
+    border-radius: 8px;
+    border: 3.5 solid black;
+}
+h2 {
+  color: green
+}
