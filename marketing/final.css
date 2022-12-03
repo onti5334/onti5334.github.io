@@ -1,4 +1,5 @@
-body {
+body 
+{
   background-color: rgb(232, 128, 255)
 }
 img
@@ -8,8 +9,9 @@ img
   margin-right: auto;
    display: block;
 }
-h2 {
-  color: red
+h2 
+{
+  color: purple
   font-size: 25px;
   font-style: oblique;
    font-family: serif;
@@ -17,7 +19,8 @@ h2 {
   text-decoration-line: underline;
   text-decoration-color: black;
 }
-p {
+p 
+{
   text-align: center
     color: darkgray
 }
