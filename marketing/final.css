@@ -54,6 +54,6 @@ p
 a
 {
    text-align: center
-     font-size: 50px;
-  font-style: oblique;
+   text-decoration-line: underline;
+  text-decoration-color: black;
 }
