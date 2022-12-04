@@ -48,7 +48,7 @@ p
     color: black
   font-style: oblique;
    font-family: serif;
-   text-align: center;
+   text-align: left;
    font-size: 36px;
 }
 a
@@ -64,7 +64,7 @@ a
   padding: 25px 30px;
   font-size: 15px; 
   cursor: pointer; 
-
+}
 .btn:hover {
   background-color: RoyalBlue;
 }
