@@ -12,7 +12,7 @@ img
 h2 
 {
   color: purple
-  font-size: 35x;
+  font-size: 45x;
   font-style: oblique;
    font-family: serif;
    text-align: center;
@@ -24,13 +24,13 @@ h3
     color: purple
   text-decoration-line: underline;
   text-decoration-color: black;
-  font-size: 35px;
+  font-size: 45px;
   font-style: oblique;
    text-align: center;
 }
 h1
 {
-  font-size: 35px;
+  font-size: 45px;
   font-style: oblique;
     text-decoration-line: underline;
   text-decoration-color: black;
@@ -38,7 +38,7 @@ h1
 }
 iframe 
 {
-    width: 50vmax;
+    width: 35vmax;
   margin-left: auto;
   margin-right: auto;
    display: block;
@@ -60,9 +60,9 @@ a
 .btn {
   background-color: purple;
   border: none;
-  color: white; 
-  padding: 25px 30px;
-  font-size: 15px; 
+  color: black; 
+  padding: 50px 50px;
+  font-size: 20px; 
   cursor: pointer; 
 }
 .btn:hover {
