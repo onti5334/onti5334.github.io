@@ -50,6 +50,7 @@ p
    font-family: serif;
    text-align: left;
    font-size: 20px;
+  text-decoration-color: black;
 }
 a
 {
@@ -70,3 +71,8 @@ a
   background-color: RoyalBlue;
    text-align: center
 }
+br {
+  text-decoration-line: underline;
+  text-decoration-color: black;
+}
+  
