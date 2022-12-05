@@ -79,9 +79,7 @@ br {
 div {
 
   border: 15px solid purple; 
-  border-bottom: 8rem solid black;
   border-block-end-style: groove;
-
 
 } 
 
