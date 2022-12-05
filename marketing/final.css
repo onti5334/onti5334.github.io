@@ -78,7 +78,10 @@ br {
 }
 div {
 
-  border: 15px solid red;
+  border: 15px solid rgb(175, 0, 214)
+  border-bottom: 1rem solid;
+  border-block-end-style: groove;
+writing-mode: horizontal-tb;
 
 } 
 
