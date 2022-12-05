@@ -42,13 +42,13 @@ h1
 }
 iframe 
 {
-    width: 50vmax;
+     float: center;
+  border: purple
+  width: 50vmax;
   margin-left: auto;
   margin-right: auto;
    display: block;
-  float: center;
-  border: purple
-      border-block-end-style: groove;
+ 
 }
 p
 {
