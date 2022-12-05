@@ -52,11 +52,9 @@ p
    font-size: 20px;
   text-decoration-color: black;
 }
-a
-{
-   text-align: center
-   text-decoration-line: underline;
-  text-decoration-color: black;
+a {
+  color: #112d4e; 
+     text-align: center
 }
 .btn {
   background-color: purple;
