@@ -76,4 +76,8 @@ br {
   text-decoration-line: underline;
   text-decoration-color: black;
 }
-  
+ 
+@font-face {
+	font-family: Blackout;
+	src: url("assests/blackout.ttf") format("truetype");
+}
