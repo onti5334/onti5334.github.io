@@ -1,6 +1,8 @@
 body 
 {
   background-color: rgb(232, 128, 255)
+    background-origin: border-box;
+background-repeat: no-repeat;
 }
 img
 {
