@@ -18,6 +18,7 @@ h2
   text-decoration-line: underline;
   text-decoration-color: black;
    font-size: 66x;
+   border: 2.5px solid black;
 }
 h3 
 {
@@ -27,6 +28,7 @@ h3
   font-style: oblique;
    text-align: center;
    text-decoration-line: underline;
+   border: 2.5px solid black;
 }
 h1
 {
@@ -35,6 +37,7 @@ h1
     text-decoration-line: underline;
   text-decoration-color: black;
    text-align: center;
+   border: 2.5px solid black;
 }
 iframe 
 {
