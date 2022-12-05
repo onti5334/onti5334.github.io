@@ -22,11 +22,11 @@ h2
 h3 
 {
     color: purple
-  text-decoration-line: underline;
   text-decoration-color: black;
   font-size: 36px;
   font-style: oblique;
    text-align: center;
+   text-decoration-line: underline;
 }
 h1
 {
