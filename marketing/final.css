@@ -9,6 +9,9 @@ img
   margin-right: auto;
    display: block;
   float: center;
+   outline-style: solid;
+  outline-color: black;
+  outline-width: thin;
 }
 h2 
 {
@@ -24,7 +27,7 @@ h2
 h3 
 {
     color: purple
-  text-decoration-color: green;
+  text-decoration-color: black;
   font-size: 36px;
   font-style: oblique;
    text-align: center;
@@ -62,9 +65,6 @@ color: red
    text-align: left;
    font-size: 20px;
    border: 1px solid black;
-  outline-style: solid;
-  outline-color: black;
-  outline-width: thin;
 
 }
 a {
