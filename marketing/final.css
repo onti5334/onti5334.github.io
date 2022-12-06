@@ -2,7 +2,7 @@ body
 {
   background-color: rgb(232, 128, 255)
     background-size: cover;
-  background: content-box radial-gradient(white, purple);
+  background: content-box radial-gradient(white, darkviolet);
 }
 img
 {
