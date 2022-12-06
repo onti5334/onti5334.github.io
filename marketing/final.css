@@ -105,4 +105,13 @@ div {
   padding-left: 30px;
 
 } 
+h1.class {
+  color: black
+  font-style: oblique;
+   font-family: serif;
+   text-align: center;
+   font-size: 55px;
+    font-weight: bold;
+   font-family: "Times New Roman", Times, serif;
+}
 
