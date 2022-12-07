@@ -15,6 +15,7 @@ img
    outline-style: solid;
   outline-color: black;
   outline-width: thin;
+ background-position-x: center;
 }
 h2 
 {
@@ -63,6 +64,7 @@ iframe
   padding-left: 30px;
     width: 52vmax;
 text-align: center
+ background-position-x: center;
  
 }
 p
